@@ -18,5 +18,8 @@
   "devDependencies": {
     "@types/node": "^16.11.5",
     "nodemon": "^2.0.14"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
